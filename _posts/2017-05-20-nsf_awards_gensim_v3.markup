@@ -4,6 +4,7 @@ date:   2017-05-20
 tags: [machine learning]
 
 excerpt: "Natural Language Processing, Topic Modeling, and Latent Dirichlet Allocation"
+---
 
 Suppose we have a large collection of documents and we are interested in indentifying the underlying themes in this corpus. Topic modeling offeres a way to achieve this in an unsupervised manner. Here, I used **Latent Dirichlet Allocation (LDA)**, a popular topic modeling technique, to explore a corpus of grants awarded by the National Science Foundation (NSF).
 
