@@ -47,7 +47,7 @@ Data: Patient tested positive, $T = 1$.
 Given this information, we update our prior belief of patient having the disease as follows:
 
 $$ p(H=1|T=1) = \frac{p(T=1|H=1)\,p(H=1)}{p(T=1)} 
- = \frac{p(T=1|H=1)\,p(H=1)}{{p(T=1|H=0)\,p(H=0)}+{p(T=1|H=1)\,p(H=1)}} = 0.0098. $$
+ = \frac{p(T=1|H=1)\,p(H=1)}{p(T=1|H=0)\,p(H=0)+p(T=1|H=1)\,p(H=1)} = 0.0098. $$
 
 Thus, the probability that the patient actually has the disease is < 1%. Also, note that as expected by the positive test result, the posterior probability is higher that the prior probability.
 
