@@ -1,0 +1,88 @@
+---
+title: "Research"
+permalink: /research/
+
+---
+
+<div data-canvas-width="700.8776857756702">My PhD and Postdoctoral research has been geared towards application of computer simulations and quantum mechanics to understand atomic scale phenomena in nanomaterials. The recent advances in theoretical models along with the increased computational resources now allow us to predict several key properties of materials from first-principles. This predictive capability is promising to transform the materials design paradigm from the current trial-and-error experiments to that of the computer-aided design of new materials with targeted properties. I have co-authored over 35 journal publications cited in over 600 publications (excluding self-citations), 6 conference proceedings, 2 book chapters, and have also delivered 10 talks at international conferences.</div>
+
+
+# Publications
+
+## In preparation
+
+1.  Water dissociation induced hole trapping at aqueous interfaces of TiO2 rutile (110) and anatase (101) surfaces. **N Kharche**, J L Lyons, M Z Ertem, M S Hybertsen, and J T Muckerman
+2.  Wet water structure governs extent of dissociation at aqueous-titania interfaces. J L Lyons, **N Kharche**, M Z Ertem, J T Muckerman, and M S Hybertsen
+
+## Submitted
+
+1.  Tunable Quantum Dots in Graphene Nanoribbons. S Wang, **N Kharche**, E C Girao, X Feng, C Mullen, R Fasel, V Meunier, and P Ruffieux.
+
+## Journal publications
+
+1.  Heteroatom-Doped Perihexacene from a Double Helicene Precursor: On-Surface Synthesis and Properties. X Wang, T Dienel, M D Giovannantonio, G B Barin, **N Kharche**, O Deniz, J I Urgel, R Widmer, S Stolz, L H D Lima, M Muntwiler, M Tommasini, V Meunier, P Ruffieux, X Feng, R Fasel, K Müllen, and A Narita. [Journal of American Chemical Society, 139, 4671–4674 (2017)](http://pubs.acs.org/doi/abs/10.1021/jacs.7b02258)
+2.  Revealing the Electronic Structure of Silicon Intercalated Armchair Graphene Nanoribbons by Scanning Tunneling Spectroscopy. O Deniz, C Sanchez-Sanchez, T Dumslaff, X Feng, A Narita, K Müllen, **N Kharche**, V Meunier, R Fasel, P Ruffieux. [Nano Letters 17, 2197–2203 (2017)](http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.6b04727)
+3.  A Mechanistic Picture and Kinetic Analysis of Surface-Confined Ullmann Polymerization. M D Giovannantonio, M Tomellini, J Lipton-Duffin, G Galeotti, M Ebrahimi, A Cossaro, A Verdini, **N Kharche**, V Meunier, G Vasseur, Y Fagot-Revurat, D F. Perepichka, F Rosei, and G Contini. [_Journal of the American Chemical Society, _**DOI:** 10.1021/jacs.6b09728](http://pubs.acs.org/doi/abs/10.1021/jacs.6b09728)
+4.  Electronic, vibrational, Raman, and scanning tunneling microscopy signatures of two-dimensional boron nanomaterials. D V P Massote, L Liang, **N Kharche**, V Meunier.  [Physical Review B 94, 195416 (2016)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.195416)
+5.  Substrate polarization effect on the band gaps of one-dimensional semiconducting atomic wires. A J Simbeck, N A Lanzillo, **N Kharche**, S K Nayak. [Computational Materials Science 123, 14 (2016)](http://www.sciencedirect.com/science/article/pii/S092702561630283X)
+6.  Controlled Sculpture of Black Phosphorus Nanoribbons. P M Das, G Danda, A Cupo, W M Parkin, L Liang, **N Kharche**, X Ling, S Huang, M S Dresselhaus, V Meunier, M Drndic, [ACS Nano 10, 5687–5695 (2016)](http://pubs.acs.org/doi/abs/10.1021/acsnano.6b02435)
+7.  Width and Crystal Orientation Dependent Band Gap Renormalization in Substrate-Supported Graphene Nanoribbons.. **N Kharche** and V Meunier. [Journal of Physical Chemistry Letters 7, 1526 (2016)](http://pubs.acs.org/doi/abs/10.1021/acs.jpclett.6b00422)
+8.  Atomically thin layers of B-N-C-O with tunable composition. B Ozturk, A de-Luna-Bugallo, E Panaitescu, A C Debay, F Liu, A Vargas, X Jiang, **N Kharche**, O Yavuzcetin, M Alnaji, Y Zhao, N King, N K Dhar, M Dubey, S K Nayak, S Sridhar, and S Kar.  [Science Advances, 1, e1500094 (2015)](http://advances.sciencemag.org/content/1/6/e1500094)
+9.  Photoinduced Water Oxidation at the Aqueous GaN (10-10) Interface: Deprotonation Kinetics of the First Proton-Coupled Electron-Transfer Step. M Z Ertem*, **N Kharche***, V S Batista, M S Hybertsen, J C Tully, and J T Muckerman.  [ACS Catalysis, 5 2317 (2015)](http://pubs.acs.org/doi/abs/10.1021/acscatal.5b00054)
+10.  First-principles approach to calculating energy level alignment at aqueous semiconductor interfaces. **N Kharche**, J T Muckerman, and M S Hybertsen. [Physical Review Letters, 113, 176802 (2014)](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.113.176802)
+11.  Computational investigation of structural and electronic properties of aqueous interfaces of GaN, ZnO, and a GaN/ZnO alloy. **N Kharche**, M S Hybertsen, and J T Muckerman. [Physical Chemistry Chemical Physics: Themed issue on “Photosynthesis: From Natural to Artificial”, 16, 12057–12066 (2014)](http://pubs.rsc.org/en/content/articlelanding/2014/cp/c4cp00486h#!divAbstract) (Invited)
+12.  Substrate-induced band gap renormalization in semiconducting carbon nanotubes. N A Lanzillo, **N Kharche**, and S K Nayak. [Nature Scientific Reports, 4, 3609 (2014)](http://www.nature.com/articles/srep03609)
+13.  Multiscale modeling of screening effects on conductivity of graphene in weakly bonded graphene-dielectric heterostructures. N **Kharche**, T B Boykin, and S K Nayak. [Journal of Computational Electronics: Special Issue on Multiscale and Multiphysics Modelling, 12, 722–729 (2013)](http://link.springer.com/article/10.1007/s10825-013-0524-1) (Invited)
+14.  Giant quasiparticle bandgap modulation in graphene nanoribbons supported on weakly interacting surfaces. X Jiang*, **N Kharche***, P Kohl, T B Boykin, G Klimeck, M Luisier, P M Ajayan, and S K Nayak. [Applied Physics Letters, 103, 133107 (2013)](http://scitation.aip.org/content/aip/journal/apl/103/13/10.1063/1.4822427). (* Equal contribution)
+15.  Electronic structure of oxygen-functionalized armchair graphene nanoribbons. A J Simbeck, D Gu, **N Kharche**, P V Satyam, P Avouris, and S K Nayak. [Physical Review B, 88, 035413 (2013)](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.88.035413)
+16.  Investigation of ripple-limited low-field mobility in large-scale graphene nanoribbons. M Luisier, T B Boykin, Z Ye, A Martini, G Klimeck, **N Kharche**, X Jiang, S K Nayak. [Applied Physics Letters, 102, 253506 (2013)](http://scitation.aip.org/content/aip/journal/apl/102/25/10.1063/1.4811761)
+17.  Aluminum conducts better than copper at the atomic scale: a first-principles study of metallic atomic wires. A J Simbeck, N Lanzillo, **N Kharche**, M J Verstraete, and S K Nayak. [ACS Nano, 6, 10449–10455 (2012)](http://pubs.acs.org/doi/abs/10.1021/nn303950b)
+18.  Performance comparisons of III-V and strained-Si in planar FETs and non-planar FinFETs at ultra-short gate length (12nm). S H Park, Y Liu, **N Kharche**, M S Jelodar, G Klimeck, M S Lundstrom, and M Luisier. [IEEE Transactions on Electron Devices, 59, 2107–2114 (2012)](http://ieeexplore.ieee.org/document/6202680/)
+19.  Effects of interface disorder on valley splitting in SiGe/Si/SiGe quantum wells. Z Jiang, **N Kharche**, T B Boykin, and G Klimeck. [Applied Physics Letters, 100, 103502 (2012)](http://scitation.aip.org/content/aip/journal/apl/100/10/10.1063/1.3692174)
+20.  Quasiparticle electronic structure of graphene and graphone on hexagonal boron nitride substrate. **N Kharche** and S K Nayak. [Nano Letters, 11, 5274–5278 (2011)](http://pubs.acs.org/doi/abs/10.1021/nl202725w)
+21.  Effect of layer-stacking on the electronic structure of graphene nanoribbons. **N Kharche**, Y Zhou, K P O’Brien, S Kar, and S K Nayak. [ACS Nano, 5, 6096–6101 (2011)](http://pubs.acs.org/doi/abs/10.1021/nn200941u)
+22.  Engineered valley-orbit splittings in quantum confined nanostructures in silicon. R Rahman, J Verduijn, **N Kharche**, G P Lansbergen, G Klimeck, L C L Hollenberg, and S Rogge. [Physical Review B, 83, 195323 (2011)](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.83.195323)
+23.  Multiscale metrology and optimization of ultra-scaled InAs quantum well FETs. **N Kharche**, G Klimeck, D H Kim, J A del Alamo, M Luisier. [IEEE Transactions on Electron Devices, 58, 1963–1971 (2011)](http://ieeexplore.ieee.org/document/5771986/)
+24.  Accurate six-band nearest-neighbor tight-binding model for the p-bands of bulk graphene and graphene nanoribbons. T B Boykin, M Luisier, G Klimeck, X Jiang, **N Kharche**, Y Zhou, and S K Nayak. [Journal of Applied Physics, 109, 104304 (2011)](http://scitation.aip.org/content/aip/journal/jap/109/10/10.1063/1.3582136)
+25.  A comparative study of quantum transport properties of silver and copper nanowires using first principles calculations. **N Kharche**, S R Manjari, Y Zhou, R E Geer, and S K Nayak. [Journal of Physics: Condensed Matter, 23, 085501 (2011)](http://iopscience.iop.org/article/10.1088/0953-8984/23/8/085501/meta)
+26.  Valley degeneracies in (111) silicon quantum wells. **N Kharche**, S Kim, T B Boykin, and G Klimeck. [Applied Physics Letters, 94, 042101 (2009)](http://scitation.aip.org/content/aip/journal/apl/94/4/10.1063/1.3068499)
+27.  Non-primitive rectangular cells for tight-binding electronic structure calculations. T B Boykin, **N Kharche**, and G Klimeck. [Physica E, 41, 490–494 (2009)](http://www.sciencedirect.com/science/article/pii/S1386947708003792)
+28.  Valley splitting in finite barrier quantum wells. T B Boykin, **N Kharche**, and G Klimeck. [Physical Review B, 77, 2453201 (2008)](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.77.245320)
+29.  Valley-splitting in strained Silicon quantum wells modeled with 2° miscuts, step disorder, and alloy disorder. **N Kharche**, J A del Alamo, T B Boykin, and G Klimeck. [Applied Physics Letters, 90, 0921091 (2007)](http://scitation.aip.org/content/aip/journal/apl/90/9/10.1063/1.2591432)
+30.  Electronic structure and transmission characteristics of SiGe nanowires. **N Kharche**, M Luisier, T B Boykin, and G Klimeck. [Journal of Computational Electronics, 7, 407–410 (2007)](http://link.springer.com/article/10.1007/s10825-008-0191-9)
+31.  Atomistic simulation of realistically sized nanodevices using NEMO 3-D: part I - models and benchmarks. G Klimeck, S Ahmed, H Bae, **N Kharche**, R Rahman, S Clark, B Haley, S Lee, M Naumov, H Ryu, F Saied, M Prada, M Korkusinski, and T B Boykin. [IEEE Transactions on Electron Devices, 54, 2079–2089 (2007)](http://ieeexplore.ieee.org/document/4294216/) (Invited)
+32.  Atomistic simulation of realistically sized nanodevices using NEMO 3-D: part II – applications. G Klimeck, S Ahmed, **N Kharche**, M Korkusinski, M Usman, M Prada, and T B Boykin. [IEEE Transactions on Electron Devices, 54, 2090–2099 (2007)](http://ieeexplore.ieee.org/document/4294217/) (Invited)
+33.  Brillouin-zone unfolding of perfect supercells having nonequivalent primitive cells illustrated with a Si/Ge tight-binding parameterization. T B Boykin, **N Kharche**, and G Klimeck. [Physical Review B, 76, 035310 (2007)](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.76.035310)
+34.  Performance analysis of a Ge/Si core/shell nanowire field effect transistor. G Liang, J Xiang, **N Kharche**, G Klimeck, C M Lieber, and M S Lundstrom. [Nano Letters, 7, 642–646 (2007)](http://pubs.acs.org/doi/abs/10.1021/nl062596f)
+35.  Approximate bandstructures of semiconductor alloys from tight-binding supercell calculations. T B Boykin, **N Kharche**, G Klimeck, and M Korkusinski. [Journal of Physics: Condensed Matter, 19, 036203 (2007)](http://iopscience.iop.org/article/10.1088/0953-8984/19/3/036203/meta)
+36.  Evolution time and energy uncertainty. T B Boykin, **N Kharche**, and G Klimeck. [European Journal of Physics, 28, 673–678 (2007)](http://iopscience.iop.org/article/10.1088/0143-0807/28/4/007/meta)
+37.  Atomistic, random-alloy calculations of the electronic structure and transmission characteristics of AlGaAs nanowires. T B Boykin, M Luisier, A Schenk, **N Kharche**, and G Klimeck. [IEEE Transactions on Nanotechnology, 6, 43–47 (2007)](http://ieeexplore.ieee.org/document/4063321/)
+38.  Allowed wavevectors under the application of incommensurate periodic boundary conditions. T B Boykin, **N Kharche**, and G Klimeck. [European Journal of Physics, 27, 5–10 (2006)](http://iopscience.iop.org/article/10.1088/0143-0807/27/1/002/meta)
+
+## Conference Proceedings
+
+1.  Multiband tight-binding model for strained and bilayer graphene from DFT calculations. T B Boykin, M Luisier, **N Kharche**, X Jiang, S K Nayak, A Martini, and G Klimeck. [International Workshop on Computational Electronics (IWCE), 1–4 (2012)](http://ieeexplore.ieee.org/document/6242826/)
+2.  Valley degeneracy in (110) Si quantum wells: strain and misorientation effects. Z Jiang, **N Kharche**, and G Klimeck. [International Workshop on Computational Electronics (IWCE), 1–4 (2010)](http://ieeexplore.ieee.org/document/5677964/)
+3.  Performance analysis of ultra-scaled InAs HEMTs.  **N Kharche**, G Klimeck, D H Kim, J A del Alamo, and M Luisier. [International Electron Devices Meeting (IEDM) Technical Digest, 491–494 (2009)](http://ieeexplore.ieee.org/document/5424315/)
+4.  Full-band and atomistic simulation of realistic 40 nm InAs HEMT. M Luisier, N Neophytou, **N Kharche**, and G Klimeck. [International Electron Devices Meeting (IEDM) Technical Digest, 887–890 (2008)](http://ieeexplore.ieee.org/document/4796842/)
+5.  A study of alloyed nanowires from two perspectives: approximate dispersion and transmission. G Klimeck, T B Boykin, M Luisier, **N Kharche**, A Schenk. [28th International Conference on the Physics of Semiconductors (ICPS-28), 893, 711–712 (2007)](http://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1216&context=nanopub&sei-redir=1&referer=https%3A%2F%2Fscholar.google.co.in%2Fscholar%3Fhl%3Den%26q%3DA%2Bstudy%2Bof%2Balloyed%2Bnanowires%2Bfrom%2Btwo%2Bperspectives%253A%2Bapproximate%2Bdispersion%2Band%2Btransmission%26btnG%3D#search=%22study%20alloyed%20nanowires%20from%20two%20perspectives%3A%20approximate%20dispersion%20transmission%22)
+6.  Atomistic simulation of non-degeneracy and optical polarization anisotropy in pyramidal quantum dots. S Ahmed, M Usman, **N Kharche**, A Schliwa, and G Klimeck. [2nd IEEE International Conference on Nano/Micro Engineered and Molecular Systems. 1-3, 697–702 (2007)](http://ieeexplore.ieee.org/document/4160475/)
+
+## Book Chapters
+
+1.  Quasiparticle electronic structure of pristine and hydrogenated graphene on weakly interacting hexagonal boron nitride substrates. Graphene, **N Kharche** and S K Nayak. Carbon Nanotubes, and Nanostructures: Techniques and Applications, [CRC Press Taylor & Francis Group, 25–39 (2012)](https://www.crcpress.com/Graphene-Carbon-Nanotubes-and-Nanostructures-Techniques-and-Applications/Morris-Iniewski/p/book/9781466560567) (Invited)
+2.  Multimillion atom simulations with NEMO 3-D. S Ahmed, **N Kharche**, R Rahman, M Usman, S Lee, H Ryu, H Bae, S Clark, B Haley, M Naumov, F Saied, M Korkusinski, R Kennel, M Mclennan, T B Boykin, and G Klimeck. In Meyers, Robert (Ed.) [Encyclopedia of Complexity and Systems Science, 6, 5745–5783\. Springer New York (2009)](http://link.springer.com/referenceworkentry/10.1007%2F978-0-387-30440-3_343).
+
+## Talks (as presenter)
+
+1.  Substrate Screening Induced Renormalization of Excited-States in 2D Materials. **N Kharche**, V Meunier, American Physical Society (APS) March Meeting, Baltimore, MD, USA (2016)
+2.  Water Dissociation and Trapped Holes at Aqueous TiO2 Interfaces. **N Kharche**, J L Lyons, M Z Ertem, M S Hybertsen, and J T Muckerman. Materials Research Society (MRS) Fall Meeting, Boston, USA (2015)
+3.  Energy level alignment at aqueous GaN and ZnO interfaces. **N Kharche**, M S Hybertsen, and J T Muckerman. Indian Institute of Technology(IIT)-Bombay, Mumbai, India, January 2014
+4.  Structural and electronic properties of photocatalytic GaN/ZnO alloy-water interfaces. **N Kharche**, M S Hybertsen, and J T Muckerman. 2013 Young Researcher Symposium, Brookhaven National Laboratory, Upton, NY, USA (2013)
+5.  Electronic structure and transport in graphene-hBN heterostructures: the role of dielectric screening. **N Kharche** and S K Nayak. CMOS Emerging Technologies Conference, Vancouver, BC, Canada (2012) (Invited)
+6.  Effects of dielectric screening on the electronic structure and transport in graphene-hBN heterostructures. **N Kharche**, T B Boykin, and S K Nayak. Materials Research Society (MRS) Fall Meeting, Boston, USA (2012)
+7.  Quasiparticle band gaps of graphene and graphone on hexagonal boron nitride substrate. **N Kharche** and S K Nayak. American Physical Society (APS) March Meeting, Boston, USA (2012)
+8.  Performance analysis of ultra-scaled InAs HEMTs. **N Kharche**, G Klimeck, D H Kim, J A del Alamo, and M Luisier. IEEE International Electron Device Meeting (IEDM), Baltimore, MD, USA (2009)
+9.  Substrate orientation dependence of valley-splitting in silicon nanostructures. **N Kharche**, S Kim, T B Boykin, and G Klimeck. American Physical Society (APS) March Meeting, New Orleans, LA, USA (2008)
+10.  Valley-splitting in strained silicon quantum wells on a miscut substrate using tight-binding model. **N Kharche**, M Prada, T B Boykin, and G Klimeck. American Physical Society (APS) March Meeting, Denver, CO, USA (2007)
+11.  Bandstructure effects in unstructured AlGaAs nanowires. **N Kharche**, C Heitzinger, G Klimeck, M Luisier, and T B Boykin. American Physical Society (APS) March Meeting, Baltimore, MD, USA (2006)
