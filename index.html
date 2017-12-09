@@ -4,12 +4,12 @@ author_profile: true
 ---
 
 {% include base_path %}
-{% include mathjax_support %}
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts }}</h3>
 
 {% for post in paginator.posts %}
   {% include archive-single.html %}
+  {% include mathjax_support %}
 {% endfor %}
 
 {% include paginator.html %}
