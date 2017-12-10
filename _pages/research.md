@@ -58,11 +58,15 @@ My PhD and Postdoctoral research has been geared towards application of computer
 3.  Full-band and atomistic simulation of realistic 40 nm InAs HEMT. M Luisier, N Neophytou, **N Kharche**, and G Klimeck. [International Electron Devices Meeting (IEDM) Technical Digest, 887–890 (2008)](http://ieeexplore.ieee.org/document/4796842/)
 2.  A study of alloyed nanowires from two perspectives: approximate dispersion and transmission. G Klimeck, T B Boykin, M Luisier, **N Kharche**, A Schenk. [28th International Conference on the Physics of Semiconductors (ICPS-28), 893, 711–712 (2007)](http://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1216&context=nanopub&sei-redir=1&referer=https%3A%2F%2Fscholar.google.co.in%2Fscholar%3Fhl%3Den%26q%3DA%2Bstudy%2Bof%2Balloyed%2Bnanowires%2Bfrom%2Btwo%2Bperspectives%253A%2Bapproximate%2Bdispersion%2Band%2Btransmission%26btnG%3D#search=%22study%20alloyed%20nanowires%20from%20two%20perspectives%3A%20approximate%20dispersion%20transmission%22)
 1.  Atomistic simulation of non-degeneracy and optical polarization anisotropy in pyramidal quantum dots. S Ahmed, M Usman, **N Kharche**, A Schliwa, and G Klimeck. [2nd IEEE International Conference on Nano/Micro Engineered and Molecular Systems. 1-3, 697–702 (2007)](http://ieeexplore.ieee.org/document/4160475/)
+{: reversed="reversed"}
+
 
 ## Book Chapters
 
 2.  Quasiparticle electronic structure of pristine and hydrogenated graphene on weakly interacting hexagonal boron nitride substrates. Graphene, **N Kharche** and S K Nayak. Carbon Nanotubes, and Nanostructures: Techniques and Applications, [CRC Press Taylor & Francis Group, 25–39 (2012)](https://www.crcpress.com/Graphene-Carbon-Nanotubes-and-Nanostructures-Techniques-and-Applications/Morris-Iniewski/p/book/9781466560567) (Invited)
 1.  Multimillion atom simulations with NEMO 3-D. S Ahmed, **N Kharche**, R Rahman, M Usman, S Lee, H Ryu, H Bae, S Clark, B Haley, M Naumov, F Saied, M Korkusinski, R Kennel, M Mclennan, T B Boykin, and G Klimeck. In Meyers, Robert (Ed.) [Encyclopedia of Complexity and Systems Science, 6, 5745–5783\. Springer New York (2009)](http://link.springer.com/referenceworkentry/10.1007%2F978-0-387-30440-3_343).
+{: reversed="reversed"}
+
 
 ## Talks (as presenter)
 
@@ -77,3 +81,4 @@ My PhD and Postdoctoral research has been geared towards application of computer
 3.  Substrate orientation dependence of valley-splitting in silicon nanostructures. **N Kharche**, S Kim, T B Boykin, and G Klimeck. American Physical Society (APS) March Meeting, New Orleans, LA, USA (2008)
 2.  Valley-splitting in strained silicon quantum wells on a miscut substrate using tight-binding model. **N Kharche**, M Prada, T B Boykin, and G Klimeck. American Physical Society (APS) March Meeting, Denver, CO, USA (2007)
 1.  Bandstructure effects in unstructured AlGaAs nanowires. **N Kharche**, C Heitzinger, G Klimeck, M Luisier, and T B Boykin. American Physical Society (APS) March Meeting, Baltimore, MD, USA (2006)
+{: reversed="reversed"}
